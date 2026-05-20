@@ -1,100 +1,90 @@
 <h1 align="center">Hi 👋, I'm Hasmitha Tadavarthy</h1>
 
 <h3 align="center">
-Passionate Student | Technology Enthusiast | Future Software Developer
+AI & IoT Enthusiast | Embedded Systems Learner | Passionate About Technology
 </h3>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Technology+Enthusiast+💻;Passionate+Learner+🚀;Future+Software+Developer+🌟" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;AI+%7C+IoT+%7C+Embedded+Systems;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Student passionate about learning emerging technologies  
-- 💻 Interested in Software Development & Programming  
-- 🌱 Currently improving coding and technical skills  
-- 🚀 Exploring new technologies and real-world projects  
-- ⚡ Love learning, building, and exploring innovative ideas  
+- 🎓 Engineering Student passionate about AI, IoT & Embedded Systems
+- 🌱 Currently learning Robotics, Automation & Smart Technologies
+- 🤖 Interested in Artificial Intelligence and Smart Applications
+- 📚 Exploring Embedded Systems and IoT-based projects
+- ⚡ Love building creative and real-world technology solutions
+- 🚀 Continuously improving programming and development skills
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
-
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="python" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"/>
-
+<img src="https://skillicons.dev/icons?i=c" height="60" alt="c" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"/>
-
+<img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"/>
-
+<img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"/>
-
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
-
+<img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
-
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"/>
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="github" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hasmitha-tadavarthy-898215345/" target="_blank">
-
+<a href="https://www.linkedin.com/in/hasmitha-tadavarthy-898215345/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:tadavarthyhasmitha@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasmithatadavarthy&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasmithatadavarthy&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmithatadavarthy&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com?user=hasmithatadavarthy&theme=tokyonight&hide_border=false" height="180"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -104,20 +94,18 @@ Passionate Student | Technology Enthusiast | Future Software Developer
 
 ---
 
-## 👾 Pacman Contribution Graph
+# 👾 Pacman Contribution Graph
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasmithatadavarthy/Hasmitha/output/pacman-contribution-graph-dark.svg">
 
-<img src="https://raw.githubusercontent.com/hasmithatadavarthy/hasmithatadavarthy/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasmithatadavarthy/Hasmitha/output/pacman-contribution-graph.svg">
 
-</div>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hasmithatadavarthy/Hasmitha/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## ✨ Quote
-
-<div align="center">
-
-### “Learning never exhausts the mind.” 🚀
-
-</div>
+<h3 align="center">
+✨ “Learning, Building, and Growing Through Technology.” ✨
+</h3>
